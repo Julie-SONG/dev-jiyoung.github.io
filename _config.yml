@@ -1,9 +1,9 @@
-title: devlopr
-subtitle: A Portfolio Jekyll Theme Built for Developers
+title: dev-jiyoung
+subtitle: dev-jiyoung's portfolio
 description: >- # this means to ignore newlines until "baseurl:"
-  devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
+  I'm going to leave my marks.
 
-url: "https://dev-jiyoung.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
+url: "https://julie-SONG.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 
 # Navigation
@@ -25,12 +25,12 @@ urls:
 # Edit Author details (For multi authors check _data/authors.yml)
 
 author_logo: profile.png
-author: John Doe
-author_bio: Hi, my name is John Doe. I built this site using devlopr-jekyll :D
-author_email: "mail@sujaykundu.com"
-author_location: India
-author_website_url: "https://sujaykundu.com"
-typewrite-text: devlopr is a jekyll framework built for developers. You can edit this in _config.yml file
+author: Jiyoung SONG
+author_bio: Hi, my name is Jiyoung Song.
+author_email: "myllop4@gmail.com"
+author_location: Republic of Korea
+author_website_url: "https://dev-jiyoung.com"
+typewrite-text: 성장하는 개발자, 송지영입니다.
 
 # Experiences
 author_work_experiences:
